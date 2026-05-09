@@ -15,6 +15,7 @@ Please note, this repository is a community-driven project and may not list all 
 🌟 If you enjoy this content, consider following me: [@fr0gger_](https://x.com/fr0gger_) 
 
 ## Basic Guidelines
+- [OWASP – Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) – An OWASP security framework for protecting AI agent memory from poisoning, injection, and exfiltration attacks. Provides detection middleware, sanitization hooks, and audit logging for LangChain, LlamaIndex, and custom agent pipelines.
 There is some specific keywords that trigger some actions from GPTS; here are some of them to maximize their use:
 * "Retrieve": used to retrieve some information available in the knowledge.
 * "Based on your knowledge": used to retrieve some information available in the knowledge.
