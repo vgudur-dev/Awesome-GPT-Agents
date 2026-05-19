@@ -162,6 +162,8 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [RedTeamGPT](https://chat.openai.com/g/g-j8ldT0QAO-redteamgpt): Advanced guide in red teaming, pentest, attack and cybersecurity.
 * [DFIR-GPT](https://chat.openai.com/g/g-11Pfha6Uq-dfir-gpt): A GPT Agent that tries to provide Digital Forensics and Incident Response (DFIR) technical advice and guidance. 
 
+- [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) - Official OWASP reference implementation for AI agent memory poisoning defense (ASI06). Scans agent memory reads/writes for prompt injection, jailbreak attempts, and semantic manipulation. `pip install agent-memory-guard`
+
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
 Want to add another cybersecurity agent. Create a pull request with the tool by following the list above. 
